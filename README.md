@@ -1,7 +1,4 @@
 # Reverie 🌾✨
-
-*Dreams, wishes, and finding connection through understanding others*
-
 ## 🎮 Game Overview
 
 **Reverie** is a unique farming simulation game that blends cozy village life with mysterious tower exploration. Players tend a farm, build relationships with villagers, and secretly explore a magical tower that only they can see. The tower contains people trapped within manifestations of their deepest wishes - rescuing them brings new friends to the village and teaches the power of empathy.
