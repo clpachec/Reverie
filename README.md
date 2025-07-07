@@ -1,11 +1,10 @@
 # Reverie 🌾✨
 ## 🎮 Game Overview
 
-**Reverie** is a unique farming simulation game that blends cozy village life with mysterious tower exploration. Players tend a farm, build relationships with villagers, and secretly explore a magical tower that only they can see. The tower contains people trapped within manifestations of their deepest wishes - rescuing them brings new friends to the village and teaches the power of empathy.
+**Reverie** is a unique farming simulation game that blends cozy village life with mysterious tower exploration. Players tend a farm, build relationships with villagers, and secretly explore a magical tower that only they can see. The tower contains people trapped within manifestations of their wishes - rescuing them brings new friends to the village.
 
 ### Core Experience
 - **Farming Simulation**: Grow seasonal crops, raise animals, and build your dream farm
-- **Social Relationships**: Connect with 6 unique villagers through gifts, conversations, and special events
 - **Tower Adventure**: Explore a mysterious tower with real-time combat and environmental puzzles
 - **Character Rescue**: Save trapped souls and watch them naturally integrate into village life
 - **Progressive Discovery**: Uncover the connection between the tower's magic and your own journey
@@ -36,11 +35,10 @@
 - **Relationship Depth**: Unlock character backstories and personal growth
 - **Economic Growth**: Build wealth through strategic farming and selling
 
-## 📖 The Story
+## Core Game Concept
+The player can see and enter an ancient stone tower that appears as ruins to everyone else. Inside, the tower contains a magical area where someone is trapped within manifestations of their deepest wish. When the player rescues them, that person coincidentally appears in the village through seemingly natural means - they have no memory of the tower experience.
+As the story unfolds, the connection between the tower's magic and the player's own journey of finding their place in the world becomes increasingly meaningful.
 
-You arrive in Millhaven following a mysterious letter from Mayor Wells, seeking a fresh start after college. While everyone else sees ancient ruins, you can enter a magical tower that holds people trapped in their own wishes and dreams. As you rescue them and watch them find their place in the village, you begin to understand that the tower's magic is somehow connected to your own search for belonging and purpose.
-
-**The Central Mystery**: Why can only you see the tower? What connects the trapped souls to your own journey? The answers lie in building connections, understanding others, and discovering that sometimes helping others find their dreams is the key to finding your own.
 
 ## 🛠️ Technical Details
 
