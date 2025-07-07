@@ -55,7 +55,3 @@ You arrive in Millhaven following a mysterious letter from Mayor Wells, seeking 
 ## 📚 Documentation
 
 - **Complete Game Design Document**: [Google Docs](https://docs.google.com/document/d/1gw-g0hAUNHeFooHR5G6ZrN-ohyu7ETGLoNPYEd45mwc/edit?usp=sharing)
-
----
-
-*Reverie is being developed with love and attention to create a meaningful experience about empathy, growth, and finding your place in the world. Thank you for joining us on this journey! 🌟*
